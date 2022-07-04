@@ -138,3 +138,6 @@ reports/
 
 # Vim
 *.swp
+
+#pnp
+node_modules/.cache
